@@ -46,7 +46,7 @@ public SalesPerson(String id){
 
 ### (c) (i) Construct unified modelling language (UML) diagrams to clearly show the relationship between the SalesPerson and Sales classes.
 
-
+![img](images/UMLdiagram.png)
 
 ### (c) (ii) Outline a negative effect that a future change in the design of the Sales object might have on this suite of programs. (2 points)
 
