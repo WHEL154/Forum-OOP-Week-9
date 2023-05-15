@@ -31,6 +31,7 @@ A large company with locations in different cities has taken an OOP approach in 
 ### 2\. The company employs several sales personnel to sell its products to different retailers. Each branch of the company keeps track of its own sales with a suite of programs that include the two classes SalesPerson and Sales.
  
 ### (a) Complete the constructor public SalesPerson(String id), from the SalesPerson class. (2 points)
+```
 ...
 public SalesPerson(String id){
         this.id = id;
@@ -38,9 +39,14 @@ public SalesPerson(String id){
         this.count = 0;
     }
 ...
+```
 ### (b) Explain why accessor methods are necessary for the SalesPerson class. (3 points)
 
+- it is necessary because the code can only be access by the salesperson therefore to protect the security of the company the accessor is being set to private.
+
 ### (c) (i) Construct unified modelling language (UML) diagrams to clearly show the relationship between the SalesPerson and Sales classes.
+
+
 
 ### (c) (ii) Outline a negative effect that a future change in the design of the Sales object might have on this suite of programs. (2 points)
 
