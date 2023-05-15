@@ -24,13 +24,13 @@ A large company with locations in different cities has taken an OOP approach in 
 
 ### (b) By giving two examples, explain how the principles of inheritance can be incorporated into the design of this administration program. (4 points)
 
--inheritance of GUI: since each site will be the same with all the model that will be used in the company, we can make a parent class to represent the common GUI.
--inheritance for employee salary: by using inheritance heirarchy, A base class like "Employee" can define common salary calculation methods and attributes, and then subclasses like "Manager," "OfficeStaff," and "SalesPersonnel" can inherit from the base class.
+- inheritance of GUI: since each site will be the same with all the model that will be used in the company, we can make a parent class to represent the common GUI.
+- inheritance for employee salary: by using inheritance heirarchy, A base class like "Employee" can define common salary calculation methods and attributes, and then subclasses like "Manager," "OfficeStaff," and "SalesPersonnel" can inherit from the base class.
 
 ### (c) Describe how the use of libraries can facilitate the development of programs like this company’s administration program. (3 points)
--Reusable code and functionality
--Specialized functionality
--Community support and updates
+- Reusable code and functionality
+- Specialized functionality
+- Community support and updates
 
 ---
 
